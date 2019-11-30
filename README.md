@@ -1,4 +1,4 @@
-# User Registration Flask App 
+# User Registration Docker and Flask Example 
 
 User is registered with a sentence and number of tokens.Sentence can be updated soending tokens and get fetched.
 
@@ -8,11 +8,13 @@ Language : Python
 
 Framework : Flask
 
-Docker
+Docker Container
 
 # Setup
 
 install docker
+
+From app root directory, run command: 
 
 dokcer-compose build 
 
